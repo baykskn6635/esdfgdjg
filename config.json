@@ -1,0 +1,85 @@
+{
+    "Main": {
+
+        "botToken": "token",
+        "botDeveloper": "senin id"
+    },
+    "Others": {
+
+        "botVoice": "botses kanal id",
+        "botPrefix": ".",
+        "botStatus": ["STATUS 1", "STATUS 2", "STATUS 3", "STATUS 4"],
+        "botFooter": "Developed by Felixar",
+        "botCooldown": 8
+
+    },
+    "Channels": {
+
+        "Chat": "chat id",
+        "Rules": "kurallar id",
+        "Welcome": "hg kanal id",
+        "RegisterVoiceChannel": "buraya teyit kanalinin baglantisini kopyla yapistircan"
+
+    },
+    "Logs": {
+
+        "logTag": "tag log id",
+        "logRole": "rol log id",
+        "logName": "isim lgo id",
+        "logRegister": "kayit log id"
+
+
+
+    },
+
+    "Roles": {
+
+        "roleTeam": "aile rol id"
+    },
+    "Registration": {
+
+        "registerStaff": "kayitci rol id",
+        "registerMan": ["erkek 1 id", "erkek 2"],
+        "registerWoman": ["kadin 1", "kadin2"],
+        "registerUnreg": "kayitsiz id",
+        "registerSymbol": "|",
+        "registerNick": "İsim",
+        "registerTagSymbol": "tagini gir buraya",
+        "registerSuspecios": "supheli hesap rol id",
+        "registerSuspeciosNick": "Şüpheli Kullanıcı",
+        "registerOneMan": "erkek1 id",
+        "registerOneWoman": "kadin1 id"
+
+    },
+    "Guild": {
+
+        "guildTag": "tag gir",
+        "guildName": "sunucu ismini gir",
+        "guildOwners": "owner rol id gir",
+        "guildDiscrim": "etiket tag gir",
+        "guildID": "sunucu id gir"
+
+    },
+    "Emojis": {
+
+        "Warn": "uyari emojsiini gir",
+        "Yes": "tik emojisi gir",
+        "No": "red emojisini gir <:1975_check:1020383952520884338> boyle olcak",
+
+        "Numbers": {
+
+            "numberOne": "1",
+            "numberTwo": "2",
+            "numberThree": "3",
+            "numberFour": "4",
+            "numberFive": "5",
+            "numberSix": "6",
+            "numberSeven": "7",
+            "numberEight": "8",
+            "numberNine": "9",
+            "numberZero": "0"
+
+        }
+
+    }
+}
